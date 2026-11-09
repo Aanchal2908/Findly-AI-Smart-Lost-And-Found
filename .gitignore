@@ -1,0 +1,11 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.semantic-cache/
+findly-ai-baseline-before-semantic.zip
+findly-ai-working-backup.zip
+findly-ai/semantic-install-plan.json
